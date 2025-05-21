@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XHntv011jYQ=",
+  "dgSpecHash": "TT8osFkDLmo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Егор\\source\\repos\\Game\\Game\\Game.csproj",
+  "projectFilePath": "D:\\Vesit_och_mnogo\\KG_Sooperbloom\\Game\\Game.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Егор\\.nuget\\packages\\opentk\\4.9.4\\opentk.4.9.4.nupkg.sha512",
     "C:\\Users\\Егор\\.nuget\\packages\\opentk.audio.openal\\4.9.4\\opentk.audio.openal.4.9.4.nupkg.sha512",

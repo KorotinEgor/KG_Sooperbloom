@@ -27,7 +27,6 @@ void main() {
     vec3 normal = aNormal;
 
     if (useTexture == 1) {
-        // Billboarding for flowers
         vec3 toCamera = normalize(cameraPos - vec3(instancePos.x, GroundHeight(instancePos.x, instancePos.y), instancePos.y));
         vec3 right = normalize(cross(vec3(0.0, 1.0, 0.0), toCamera));
         vec3 up = normalize(cross(toCamera, right));
@@ -42,7 +41,6 @@ void main() {
         ObjectColor = instanceColor;
         TexCoord = aTexCoord;
     } else {
-        // Ground, puddles
         gl_Position = projection * view * model * vec4(pos, 1.0);
         FragPos = vec3(model * vec4(pos, 1.0));
         Normal = mat3(transpose(inverse(model))) * normal;

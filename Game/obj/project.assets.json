@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Егор\\source\\repos\\Game\\Game\\Game.csproj",
+      "projectUniqueName": "D:\\Vesit_och_mnogo\\KG_Sooperbloom\\Game\\Game.csproj",
       "projectName": "Game",
-      "projectPath": "C:\\Users\\Егор\\source\\repos\\Game\\Game\\Game.csproj",
+      "projectPath": "D:\\Vesit_och_mnogo\\KG_Sooperbloom\\Game\\Game.csproj",
       "packagesPath": "C:\\Users\\Егор\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Егор\\source\\repos\\Game\\Game\\obj\\",
+      "outputPath": "D:\\Vesit_och_mnogo\\KG_Sooperbloom\\Game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
